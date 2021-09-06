@@ -1,0 +1,14 @@
+{
+  "courses": [
+    {
+      "name": "Study Express.js NEW",
+      "description": "Lập trình mobile với React Native",
+      "id": 1
+    },
+    {
+      "name": "React Native",
+      "description": "React Native",
+      "id": 2
+    }
+  ]
+}
